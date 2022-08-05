@@ -4,7 +4,7 @@ This repository contains material and resources for the course "Deep Learning". 
 
 ## Lesson plan MCSSE-AI-01 Fall '22
 
-| # | Date | Content | Link | Remarks |
+| # | Date | Content | Links | Remarks |
 | :---: | :---: | :--- | :--- | :--- |
 | 1 | 2022-09-07 | Welcome, Intro, Overview | | **Online** |
 | 2 | 2022-09-14 | Neural Networks, Deep Networks | | |
@@ -13,7 +13,7 @@ This repository contains material and resources for the course "Deep Learning". 
 | 5 | 2022-10-05 | CNNs: Detection | | |
 | 6 | 2022-10-12 | CNNs: Segmentation | | |
 | 7 | 2022-10-19 | RNNs: Processing of sequential data | | |
-| 8 | 2022-10-26 | Learning paradigms: Supervised, semi-supervised, unsupervised, ... | | |
+| 8 | 2022-10-26 | Learning paradigms: Supervised, semi-supervised, unsupervised, ... | [Details](classes/Class8.md) | |
 | 9 | 2022-11-02 | Graph Neural Networks | | |
 | 10 | 2022-11-09 | Generative models: (V)AE and GANs | | |
 | 11 | 2022-11-16 | Generative models: Other types | | |
@@ -26,6 +26,8 @@ Potential additional topics:
 - Capsule networks
 - Memory networks
 - Artificial General Intelligence (AGI): approaches
+  - [Google efforts](https://deepmind.com/blog/article/generally-capable-agents-emerge-from-open-ended-play)
+  - [Facebook AI research]()
 
 ## Required reading
 
