@@ -20,3 +20,19 @@ This repository contains material and resources for the course "Deep Learning". 
 | 12 | 2022-11-23 | Attention and Transformers | | |
 | 13 | 2022-11-30 | Reinforcement Learning | | |
 | 14 | 2022-12-07 | Summary, Q&A, Exam Prep. | | |
+
+Potential additional topics:
+- Neural architecture search
+- Capsule networks
+- Memory networks
+- Artificial General Intelligence (AGI): approaches
+
+## Required reading
+
+There is no textbook that concisely contains all the methods, approaches, or applications above. Reading tips will be given in each session, and added to the **Recommended reading** list below.
+
+## Recommended reading
+
+## Additional reading material, links, and resources
+- (Example code at Keras.io)[https://keras.io/examples/]
+- (Several Jupyter notebooks explaining methods and concepts)[https://uvadlc-notebooks.readthedocs.io/en/latest/index.html]
