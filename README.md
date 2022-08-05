@@ -34,5 +34,5 @@ There is no textbook that concisely contains all the methods, approaches, or app
 ## Recommended reading
 
 ## Additional reading material, links, and resources
-- (Example code at Keras.io)[https://keras.io/examples/]
-- (Several Jupyter notebooks explaining methods and concepts)[https://uvadlc-notebooks.readthedocs.io/en/latest/index.html]
+- [Example code at Keras.io](https://keras.io/examples/)
+- [Several Jupyter notebooks explaining methods and concepts](https://uvadlc-notebooks.readthedocs.io/en/latest/index.html)
