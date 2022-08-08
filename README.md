@@ -8,7 +8,7 @@ This repository contains material and resources for the course "Deep Learning". 
 | :---: | :---: | :--- | :--- | :--- |
 | 1 | 2022-09-07 | Welcome, Intro, Overview | | **Online** |
 | 2 | 2022-09-14 | Neural Networks, Deep Networks | [Details](classes/Class2.md) | |
-| 3 | 2022-09-21 | Training of (deep) neural nets; Backprop, SGD, losses | | |
+| 3 | 2022-09-21 | Training of (deep) neural nets; Backprop, SGD, losses | [Details](classes/Class3.md) | |
 | 4 | 2022-09-28 | CNNs: Classification | [Details](classes/Class4.md) | |
 | 5 | 2022-10-05 | CNNs: Detection | | |
 | 6 | 2022-10-12 | CNNs: Segmentation | | |
