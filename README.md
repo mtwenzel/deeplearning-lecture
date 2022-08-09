@@ -13,12 +13,12 @@ This repository contains material and resources for the course "Deep Learning". 
 | 5 | 2022-10-05 | CNNs: Detection | | |
 | 6 | 2022-10-12 | CNNs: Segmentation | | |
 | 7 | 2022-10-19 | RNNs: Processing of sequential data | | |
-| 8 | 2022-10-26 | Learning paradigms: Supervised, semi-supervised, unsupervised, ... | [Details](classes/Class8.md) | |
-| 9 | 2022-11-02 | Graph Neural Networks | | |
-| 10 | 2022-11-09 | Generative models: (V)AE and GANs | | |
-| 11 | 2022-11-16 | Generative models: Other types | | |
-| 12 | 2022-11-23 | Attention and Transformers | | |
-| 13 | 2022-11-30 | Reinforcement Learning | | |
+| 8 | 2022-10-26 | Attention (Intro); Learning paradigms | [Details](classes/Class8.md) | |
+| 9 | 2022-11-09 | Generative models: (V)AE and GANs | | |
+| 10 | 2022-11-16 | Generative models: Other types | | |
+| 11 | 2022-11-23 | Attention, Transformers, Visual Transformers | | |
+| 12 | 2022-11-30 | Reinforcement Learning; Graph Neural Networks | | |
+| 13 | 2022-11-02 | Capsule Networks; Causality | [Details](classes/Class13.md) | |
 | 14 | 2022-12-07 | Summary, Q&A, Exam Prep. | | |
 
 Potential additional topics:
