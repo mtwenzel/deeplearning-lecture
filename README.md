@@ -1,23 +1,23 @@
 # MCSSE-AI-01 Deep Learning
 
-This repository contains material and resources for the course "Deep Learning". Presentations are Google Slides. Find the overview presentation at this [link](https://docs.google.com/presentation/d/13x8WuYhWd5O--dNKJVFPcmrTewG3Hk8mqLX6bHUrqQc/edit?usp=sharing).
+This repository contains material and resources for the course "Deep Learning". Presentations are Google Slides.
 
 ## Lesson plan MCSSE-AI-01 Fall '22
 
 | # | Date | Content | Links | Remarks |
 | :---: | :---: | :--- | :--- | :--- |
-| 1 | 2022-09-07 | Welcome, Intro, Overview | | **Online** |
+| 1 | 2022-09-07 | Welcome, Intro, Overview | [Details](https://docs.google.com/presentation/d/13x8WuYhWd5O--dNKJVFPcmrTewG3Hk8mqLX6bHUrqQc/edit?usp=sharing) | **Online** |
 | 2 | 2022-09-14 | Neural Networks, Deep Networks | [Details](classes/Class2.md) | |
 | 3 | 2022-09-21 | Training of (deep) neural nets; Backprop, SGD, losses | [Details](classes/Class3.md) | |
 | 4 | 2022-09-28 | CNNs: Classification | [Details](classes/Class4.md) | |
-| 5 | 2022-10-05 | CNNs: Detection | | |
-| 6 | 2022-10-12 | CNNs: Segmentation | | |
-| 7 | 2022-10-19 | RNNs: Processing of sequential data | | |
+| 5 | 2022-10-05 | CNNs: Detection | [Details](classes/Class5.md) | |
+| 6 | 2022-10-12 | CNNs: Segmentation | [Details](classes/Class6.md) | |
+| 7 | 2022-10-19 | RNNs: Processing of sequential data | [Details](classes/Class7.md) | |
 | 8 | 2022-10-26 | Attention (Intro); Learning paradigms | [Details](classes/Class8.md) | |
-| 9 | 2022-11-09 | Generative models: (V)AE and GANs | | |
-| 10 | 2022-11-16 | Generative models: Other types | | |
-| 11 | 2022-11-23 | Attention, Transformers, Visual Transformers | | |
-| 12 | 2022-11-30 | Reinforcement Learning; Graph Neural Networks | | |
+| 9 | 2022-11-09 | Generative models: (V)AE and GANs | [Details](classes/Class9.md) | |
+| 10 | 2022-11-16 | Generative models: Other types | [Details](classes/Class10.md) | |
+| 11 | 2022-11-23 | Attention, Transformers, Visual Transformers | [Details](classes/Class11.md) | |
+| 12 | 2022-11-30 | Reinforcement Learning; Graph Neural Networks | [Details](classes/Class12.md) | |
 | 13 | 2022-11-02 | Capsule Networks; Causality | [Details](classes/Class13.md) | |
 | 14 | 2022-12-07 | Summary, Q&A, Exam Prep. | | |
 
