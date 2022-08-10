@@ -26,3 +26,6 @@
 ## Universal approximation theorem
 
 ## Training of Neural Networks
+
+- [Inductive Biases for Deep Learning of Higher-Level Cognition](https://arxiv.org/abs/2011.15091)
+- 

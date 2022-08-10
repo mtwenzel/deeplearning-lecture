@@ -2,6 +2,8 @@
 
 ## Backpropagation
 
+* Original paper (Hinton et al, 1986): [Learning Internal Representations by Error Propagation](https://apps.dtic.mil/sti/citations/ADA164453)
+
 ## SGD
 
 ## Losses
