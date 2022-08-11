@@ -17,8 +17,8 @@ This repository contains material and resources for the course "Deep Learning". 
 | 9 | 2022-11-09 | Generative models: (V)AE and GANs | [Details](classes/Class9.md) | |
 | 10 | 2022-11-16 | Generative models: Other types | [Details](classes/Class10.md) | |
 | 11 | 2022-11-23 | Attention, Transformers, Visual Transformers | [Details](classes/Class11.md) | |
-| 12 | 2022-11-30 | Reinforcement Learning; Graph Neural Networks | [Details](classes/Class12.md) | |
-| 13 | 2022-11-02 | Neural Architecture Search; Capsule Networks; Causality | [Details](classes/Class13.md) | |
+| 12 | 2022-11-30 | Reinforcement Learning; Neural Architecture Search | [Details](classes/Class12.md) | |
+| 13 | 2022-11-02 | Graph Neural Networks; Capsule Networks; Causality | [Details](classes/Class13.md) | |
 | 14 | 2022-12-07 | Summary, Q&A, Exam Prep. | | |
 
 Potential additional topics:
