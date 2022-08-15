@@ -27,5 +27,6 @@
 
 ## Training of Neural Networks
 
-- [Inductive Biases for Deep Learning of Higher-Level Cognition](https://arxiv.org/abs/2011.15091)
-- 
+- Paper on [Inductive Biases for Deep Learning of Higher-Level Cognition](https://arxiv.org/abs/2011.15091)
+- Blog post on [inductive bias in common network types](https://towardsdatascience.com/the-inductive-bias-of-ml-models-and-why-you-should-care-about-it-979fe02a1a56)
+- Battaglia paper on [inductive bias in graph networks](https://arxiv.org/abs/1806.01261)

@@ -6,12 +6,15 @@
 
 ## SGD
 
+* 
+
+## Activation functions
+* [Tutorial at UvA](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial3/Activation_Functions.html)
+* Ramachandran (2017): [Searching for activation functions](https://arxiv.org/abs/1710.05941)
+
 ## Losses
 
-### Cross Entropy
-
-### Log Loss
-
+* ...
 ## Metrics
 
 * Needed to rate the performance of models in more detail than the loss

@@ -24,6 +24,7 @@ This repository contains material and resources for the course "Deep Learning". 
 Potential additional topics:
 - Explainability -- will be covered in several lectures, e.g. CNNs, transformers, causality
 - Memory networks
+  - 
 - Artificial General Intelligence (AGI): approaches
   - [Google efforts](https://deepmind.com/blog/article/generally-capable-agents-emerge-from-open-ended-play)
   - [Facebook AI research]()
