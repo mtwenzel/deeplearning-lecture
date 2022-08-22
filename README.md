@@ -12,8 +12,8 @@ This repository contains material and resources for the course "Deep Learning". 
 | 4 | 2022-09-28 | CNNs: Classification | [Details](classes/Class4.md) | |
 | 5 | 2022-10-05 | CNNs: Segmentation | [Details](classes/Class5.md) | |
 | 6 | 2022-10-12 | CNNs: Detection | [Details](classes/Class6.md) | |
-| 7 | 2022-10-19 | RNNs: Processing of sequential data | [Details](classes/Class7.md) | |
-| 8 | 2022-10-26 | Attention (Intro); Learning paradigms | [Details](classes/Class8.md) | |
+| 7 | 2022-10-19 | RNNs: Processing of sequential data | [Details](classes/Class7.md) | **absent/online (?)** |
+| 8 | 2022-10-26 | Learning paradigms | [Details](classes/Class8.md) | **absent/TAs (?)** |
 | 9 | 2022-11-09 | Generative models: (V)AE and GANs | [Details](classes/Class9.md) | |
 | 10 | 2022-11-16 | Generative models: Other types | [Details](classes/Class10.md) | |
 | 11 | 2022-11-23 | Attention, Transformers, Visual Transformers | [Details](classes/Class11.md) | |

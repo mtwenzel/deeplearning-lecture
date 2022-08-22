@@ -24,6 +24,8 @@
   - Cheating [in FPS](https://thenextweb.com/news/new-ml-console-cheat-ai-aim-assist), [in Poker](https://www.nytimes.com/2022/01/18/magazine/ai-technology-poker.html)/[Poker strategy](https://www.science.org/doi/10.1126/science.1259433)/[Poker Solver AI](https://www.piosolver.com/)
 
 ## Universal approximation theorem
+- Online tutorial with simplified proof
+- 
 
 ## Training of Neural Networks
 
