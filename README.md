@@ -31,13 +31,15 @@ Potential additional topics:
 
 ## Required reading
 
-There is no textbook that concisely contains all the methods, approaches, or applications above. Reading tips will be given in each session, and added to the **Recommended reading** list below.
+There is no textbook that concisely contains all the methods, approaches, or applications above. Reading tips (web sites, papers, ...) will be given in each session.
 
 ## Recommended reading
 
-Goodfellow, Bengio, Courville: *Deep Learning*. MIT Press, 2016
-Aggarval: *Neural Networks and Deep Learning*. Springer 2018
+- Goodfellow, Bengio, Courville: *Deep Learning*. MIT Press, 2016
+- Aggarval: *Neural Networks and Deep Learning*. Springer 2018
 
 ## Additional reading material, links, and resources
 - [Example code at Keras.io](https://keras.io/examples/)
+- Examples and Tutorials at TensorFlow documentation (go into specific TF library)
+- [PyTorch Tutorials](https://pytorch.org/tutorials/)
 - [Several Jupyter notebooks explaining methods and concepts](https://uvadlc-notebooks.readthedocs.io/en/latest/index.html)
