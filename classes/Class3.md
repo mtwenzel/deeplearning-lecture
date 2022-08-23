@@ -1,12 +1,14 @@
 # Class 3: Back Propagation, SGD, Losses
 
+## Contrastive Divergence
+- Used in RBMs, cf. Section "Learning Weights" in the [RBM Tutorial](http://blog.echen.me/2011/07/18/introduction-to-restricted-boltzmann-machines/)
+- Also a kind of unsupervised training paradigm (see [Class 8](Class8.md))
 ## Backpropagation
 
 * Original paper (Hinton et al, 1986): [Learning Internal Representations by Error Propagation](https://apps.dtic.mil/sti/citations/ADA164453)
 
 ## SGD
-
-* 
+* Can wrap any algorithm like BP or CD.
 
 ## Activation functions
 * [Tutorial at UvA](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial3/Activation_Functions.html)
