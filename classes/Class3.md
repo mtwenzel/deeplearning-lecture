@@ -10,13 +10,14 @@
 ## SGD
 * Can wrap any algorithm like BP or CD.
 
-## Activation functions
+## Activation functions, Losses
+
 * [Tutorial at UvA](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial3/Activation_Functions.html)
 * Ramachandran (2017): [Searching for activation functions](https://arxiv.org/abs/1710.05941)
+* (Categorial) Cross Entropy
+* Dice/Jaccard
+* Softmax
 
-## Losses
-
-* ...
 ## Metrics
 
 * Needed to rate the performance of models in more detail than the loss
