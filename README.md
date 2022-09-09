@@ -1,6 +1,8 @@
 # MCSSE-AI-01 Deep Learning
 
-This repository contains material and resources for the course "Deep Learning". Presentations are Google Slides.
+This repository contains material and resources for the course "Deep Learning". Presentations are Google Slides. 
+
+In the following table, the "Details" pages will not be an outline of the respective lecture session, but additional reading and online material relating to parts of the lecture.
 
 ## Lesson plan MCSSE-AI-01 Fall '22
 

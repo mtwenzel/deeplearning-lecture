@@ -4,6 +4,7 @@
 * [Q Learning Intro tutorial](https://www.learndatasci.com/tutorials/reinforcement-q-learning-scratch-python-openai-gym/)
 * [Deep Q Learning 101](https://towardsdatascience.com/deep-q-learning-tutorial-mindqn-2a4c855abffc) -- has some more references 
 * [Keras RL examples](https://keras.io/examples/rl/)
+* An alternative to reinforcement learning is "[Differentiable Programming](https://docs.taichi-lang.org/docs/differentiable_programming)"
 
 ## Class 12.2: Neural Architecture Search
 
