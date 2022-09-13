@@ -6,6 +6,8 @@
 ## Backpropagation
 
 * Original paper (Hinton et al, 1986): [Learning Internal Representations by Error Propagation](https://apps.dtic.mil/sti/citations/ADA164453)
+* [Online tutorial](http://neuralnetworksanddeeplearning.com/chap2.html)
+* [BP example step by step](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
 
 ## SGD
 * Can wrap any algorithm like BP or CD.
