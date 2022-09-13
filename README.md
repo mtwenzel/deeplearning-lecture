@@ -8,7 +8,7 @@ In the following table, the "Details" pages will not be an outline of the respec
 
 | # | Date | Content | Links | Remarks |
 | :---: | :---: | :--- | :--- | :--- |
-| 1 | 2022-09-07 | Welcome, Intro, Overview | [Details](https://docs.google.com/presentation/d/13x8WuYhWd5O--dNKJVFPcmrTewG3Hk8mqLX6bHUrqQc/edit?usp=sharing) | **Online** |
+| 1 | 2022-09-07 | Welcome, Intro, Overview, Exam, Audit | [Details in Google Slides](https://docs.google.com/presentation/d/13x8WuYhWd5O--dNKJVFPcmrTewG3Hk8mqLX6bHUrqQc/edit?usp=sharing) | **Online** |
 | 2 | 2022-09-14 | Neural Networks, Deep Networks | [Details](classes/Class2.md) | |
 | 3 | 2022-09-21 | Training of (deep) neural nets; Backprop, SGD, losses | [Details](classes/Class3.md) | |
 | 4 | 2022-09-28 | CNNs: Classification | [Details](classes/Class4.md) | |
