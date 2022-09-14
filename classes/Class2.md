@@ -14,13 +14,13 @@
   - Text: [Facebook OPT-175B](https://ai.facebook.com/blog/opt-175b-large-language-model-applications/); [GPT-3](https://openai.com/blog/gpt-3-apps/)
   - [Causal laws](https://proceedings.neurips.cc/paper/2020/hash/6822951732be44edf818dc5a97d32ca6-Abstract.html)
   - [Mathematical proofs](https://www.nature.com/articles/s41586-021-04086-x)
-  - Protein folding [AlphaFold](https://www.deepmind.com/blog/alphafold-reveals-the-structure-of-the-protein-universe)
+  - Protein folding [AlphaFold blog post](https://www.deepmind.com/blog/alphafold-reveals-the-structure-of-the-protein-universe) and [paper](https://www.nature.com/articles/s41586-021-03819-2)
 - Super-human performance in...
   - [Gran Tourismo Sport](https://arxiv.org/abs/2008.07971)
   - [Learn and master games like Chess, Go](https://www.deepmind.com/blog/muzero-mastering-go-chess-shogi-and-atari-without-rules)
   - [Cooperative Games, e.g. Dota2](https://openai.com/five/)
-  - [Classification]()
-  - [Emotion understading]()
+  - [Emotion detection](https://pubmed.ncbi.nlm.nih.gov/35154306/)
+  - Translation: Parity claimed 2019 (WMT; Facebook FAIR)
   - Cheating [in FPS](https://thenextweb.com/news/new-ml-console-cheat-ai-aim-assist), [in Poker](https://www.nytimes.com/2022/01/18/magazine/ai-technology-poker.html)/[Poker strategy](https://www.science.org/doi/10.1126/science.1259433)/[Poker Solver AI](https://www.piosolver.com/)
 
 ## Neural Networks Basics

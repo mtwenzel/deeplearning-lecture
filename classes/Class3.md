@@ -9,8 +9,10 @@
 * [Online tutorial](http://neuralnetworksanddeeplearning.com/chap2.html)
 * [BP example step by step](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
 
-## SGD
-* Can wrap any algorithm like BP or CD.
+## Optimizers
+* SGD - Can wrap any algorithm like BP or CD.
+* ADAM
+* ADAGrad
 
 ## Activation functions, Losses
 
