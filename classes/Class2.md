@@ -33,13 +33,3 @@
 - Online tutorial with [visual proof](http://neuralnetworksanddeeplearning.com/chap4.html)
 - Play with a Sigmoid in an [online graph plotter](https://www.desmos.com/calculator/lytclmdsno)
 
-### Neural Networks: Architectures and Bias
-
-- Paper on [Inductive Biases for Deep Learning of Higher-Level Cognition](https://arxiv.org/abs/2011.15091)
-- Blog post on [inductive bias in common network types](https://towardsdatascience.com/the-inductive-bias-of-ml-models-and-why-you-should-care-about-it-979fe02a1a56)
-- Battaglia paper on [inductive bias in graph networks](https://arxiv.org/abs/1806.01261)
-
-### Building Deep Neural Networks: Layer Types
-- One of the [earlier Deep Learning papers](http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf) describing typical layers
-- [PyTorch Layers](https://pytorch.org/docs/stable/nn.html)
-- [Keras Layers](https://keras.io/api/layers/)
