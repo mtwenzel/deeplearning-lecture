@@ -12,6 +12,9 @@ from torchvision.utils import make_grid
 # %matplotlib inline # uncomment if you run in Jupyter notebook.
 import matplotlib.pyplot as plt
 
+device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+#device = torch.device('cpu')
+
 batch_size = 64
 
 train_loader = torch.utils.data.DataLoader(
@@ -44,7 +47,7 @@ class RBM(nn.Module):
         self.k = k
     
    def sample_from_p(self,p):
-       return torch.relu(torch.sign(p - Variable(torch.rand(p.size()))))
+       return torch.relu(torch.sign(p - Variable(torch.rand(p.size())).to(device)))
     
    def v_to_h(self,v):
         p_h = torch.sigmoid(F.linear(v,self.W,self.h_bias))
@@ -72,30 +75,36 @@ class RBM(nn.Module):
         hidden_term = wx_b.exp().add(1).log().sum(1)
         return (-hidden_term - vbias_term).mean()
 
-rbm = RBM(k=1)
-train_op = optim.SGD(rbm.parameters(),0.1)
-
-for epoch in range(10):
-    loss_ = []
-    for _, (data,target) in enumerate(train_loader):
-        data = Variable(data.view(-1,784))
-        sample_data = data.bernoulli()
-        
-        v,v1 = rbm(sample_data)
-        loss = rbm.free_energy(v) - rbm.free_energy(v1)
-        loss_.append(loss.data)
-        train_op.zero_grad()
-        loss.backward()
-        train_op.step()
-
-    print("Training loss for {} epoch: {}".format(epoch, np.mean(loss_)))
-
 def show_and_save(file_name,img):
     npimg = np.transpose(img.numpy(),(1,2,0))
     f = "./%s.png" % file_name
     plt.imshow(npimg)
     plt.imsave(f,npimg)
 
-show_and_save("real",make_grid(v.view(32,1,28,28).data))
+# Create model on GPU (if available)
+rbm = RBM(k=1).to(device)
 
-show_and_save("generate",make_grid(v1.view(32,1,28,28).data))
+# Train using SGD
+train_op = optim.SGD(rbm.parameters(),0.1)
+
+# Training loop
+for epoch in range(5):
+    loss_ = []
+    for _, (data,target) in enumerate(train_loader):
+        data = Variable(data.view(-1,784))
+        data, target = data.to(device), target.to(device)
+        sample_data = data.bernoulli()
+        
+        v,v1 = rbm(sample_data)
+        loss = rbm.free_energy(v) - rbm.free_energy(v1)
+        loss_.append(loss.data.cpu())
+        train_op.zero_grad()
+        loss.backward()
+        train_op.step()
+    
+    # Create a preview of this iteration's "dream"
+    show_and_save("generate{}".format(epoch),make_grid(v1.view(32,1,28,28).data.cpu()))
+    print("Training loss for {} epoch: {}".format(epoch, np.mean(loss_)))
+
+show_and_save("real{}",make_grid(v.view(32,1,28,28).data.cpu()))
+
