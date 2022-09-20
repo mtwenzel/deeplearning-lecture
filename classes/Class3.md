@@ -20,10 +20,9 @@
 * [BP example step by step](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
 
 ## Optimizers
-* SGD - Can wrap any algorithm like BP or CD.
-* ADAM
-* ADAGrad
-
+* Not the best explanation of the maths of optimizers, but fairly comprehensive is this [blog post](https://towardsdatascience.com/optimizers-for-training-neural-network-59450d71caf6). There are some mistakes in it, and some omissions. 
+* Coherent notation, but no explanation whatsoever is featured in [this post](https://medium.com/mlearning-ai/optimizers-in-deep-learning-7bf81fed78a0)
+* Almost overcomplete, available as a paper, as slides, and of course as an online post is [this overview](https://ruder.io/optimizing-gradient-descent/)
 ## Network components
 
 ### Layer Types
