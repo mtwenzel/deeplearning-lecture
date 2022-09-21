@@ -5,7 +5,7 @@
 ### Neural Networks: Architectures and Bias
 
 - Paper on [Inductive Biases for Deep Learning of Higher-Level Cognition](https://arxiv.org/abs/2011.15091)
-- Blog post on [inductive bias in common network types](https://towardsdatascience.com/the-inductive-bias-of-ml-models-and-why-you-should-care-about-it-979fe02a1a56)
+- Blog post on [inductive bias in common network types](https://towardsdatascience.com/the-inductive-bias-of-ml-models-and-why-you-should-care-about-it-979fe02a1a56). Mind the typos... 
 - Battaglia paper on [inductive bias in graph networks](https://arxiv.org/abs/1806.01261)
 
 ## Training Algorithms
