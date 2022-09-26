@@ -19,25 +19,3 @@
 * [Online tutorial](http://neuralnetworksanddeeplearning.com/chap2.html)
 * [BP example step by step](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
 
-## Optimizers
-* Almost overcomplete, available as a paper, as slides, and of course as an online post is [this overview](https://ruder.io/optimizing-gradient-descent/)
-* Has many references to original literature and further reading.
-## Network components
-
-### Layer Types
-- One of the [earlier Deep Learning papers](http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf) describing typical layers
-- [PyTorch Layers](https://pytorch.org/docs/stable/nn.html)
-- [Keras Layers](https://keras.io/api/layers/)
-
-### Activation functions, Losses
-
-* [Tutorial at UvA](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial3/Activation_Functions.html)
-* Ramachandran (2017): [Searching for activation functions](https://arxiv.org/abs/1710.05941)
-* (Categorial) Cross Entropy
-* Dice/Jaccard
-* Softmax
-
-### Metrics
-
-* Needed to rate the performance of models in more detail than the loss
-* Will be covered within the respective domain topics, e.g. image processing, text processing, ...
