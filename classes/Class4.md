@@ -3,6 +3,7 @@
 ## Optimizers
 * Almost overcomplete, available as a paper, as slides, and of course as an online post is [this overview](https://ruder.io/optimizing-gradient-descent/)
 * Has many references to original literature and further reading.
+
 ## Network components
 
 ### Layer Types
@@ -31,4 +32,10 @@
 - [CNN Explainer](https://poloclub.github.io/cnn-explainer/)
 - UvA tutorial on [classification networks](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial5/Inception_ResNet_DenseNet.html)
 - Classifiers can't easily signal out-of-distribution examples. [Preview: Energy-based models help.](https://arxiv.org/abs/1912.03263) Cf. Contrastive Divergence!
-- Classifier calibration
+- Classifier calibration/Expected Calibration Error (ECE)
+
+### Noteworthy Architectures
+- "Going Deeper with Convolutions" (Szegedy 2014; "GoogLeNet/Inception") - [paper](https://arxiv.org/abs/1409.4842)
+- "Deep Residual Learning for Image Recognition" (He 2015; "ResNet") - [paper](https://arxiv.org/abs/1512.03385)
+- "Densely Connected Convolutional Networks" (Huang 2016; "DenseNet") - [paper](https://arxiv.org/abs/1608.06993)
+- "Xception: Deep Learning with Depth-Wise Separable Convolutions" (Chollet 2017; "Xception") - [paper](https://arxiv.org/abs/1610.02357)
