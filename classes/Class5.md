@@ -1,6 +1,6 @@
-Class 05: Continuing with CNNs for Classification
-### Noteworthy Architectures
-- "Going Deeper with Convolutions" (Szegedy 2014; "GoogLeNet/Inception") - [paper](https://arxiv.org/abs/1409.4842)
-- "Deep Residual Learning for Image Recognition" (He 2015; "ResNet") - [paper](https://arxiv.org/abs/1512.03385)
-- "Densely Connected Convolutional Networks" (Huang 2016; "DenseNet") - [paper](https://arxiv.org/abs/1608.06993)
-- "Xception: Deep Learning with Depth-Wise Separable Convolutions" (Chollet 2017; "Xception") - [paper](https://arxiv.org/abs/1610.02357)
+# Class 5: Self-Study.
+
+Papers:
+* On metrics: "Metrics reloaded: Recommendations for image analysis validation" -- https://arxiv.org/pdf/2206.01653.pdf (Focus only on classification for now!)
+* On regularization: "Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift" -- http://arxiv.org/abs/1502.03167v3 
+* On classification architectures: "Gradient-based Learning Applied to Document Recognition" -- http://yann.lecun.com/exdb/publis/pdf/lecun-98.pdf
