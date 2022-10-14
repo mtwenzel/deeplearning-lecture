@@ -1,6 +1,22 @@
-# Class 9: Generative Modeling Intro -- (V)AEs and GANs
+# Class 9.1: Text processing and RNNs
 
-- Intro text: [Book Chapter](https://arxiv.org/pdf/2207.03887) contains many references and links to implementations, online tools, etc.
-- Generative models, taxonomy: [Blog post](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/)
-- Distribution modeling, probability, Bayesian inference, ELBO: [YouTube video](https://youtu.be/DYRK0-_K2UU?t=482), [Blog post](https://lilianweng.github.io/posts/2018-08-12-vae/)
-- Out-of-Distribution detection: [Paper](https://arxiv.org/abs/1912.03263) on how classifiers can be fused with energy models
+* Overview paper on [Metrics](https://link.springer.com/article/10.1007/s11063-022-10835-4) for text translation and text generation models
+
+# Class 9.2: Learning paradigms: How to train a neural network?
+
+## Supervised
+* Influence of label quality
+* Bias/distribution shift: [Causality matters](https://www.nature.com/articles/s41467-020-17478-w) not only in medical imaging
+
+## Semi-supervised/weakly supervised
+* Multiple-instance learning
+* [Blog on semi-supervised/weakly supervised learning](https://lilianweng.github.io/posts/2021-12-05-semi-supervised/)
+
+## Unsupervised/Self-Supervised
+* Classification/Segmentation: Clustering
+* Generative networks: Reconstruction (e.g. Autoencoders, will be touched in [Class 9](Class9.md))
+* Distribution estimation models (e.g. RBMs using Contrastive Divergence, [Class 3](Class3.md), or [energy-based models](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial8/Deep_Energy_Models.html))
+* Facebook's general framework for self-supervised learning, [data2vec](https://ai.facebook.com/research/publications/data2vec-a-general-framework-for-self-supervised-learning-in-speech-vision-and-language/)
+* UvA Tutorial on [SimCLR](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial17/SimCLR.html)
+* Pretraining algorithms, e.g. BERT-style
+
