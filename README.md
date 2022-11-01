@@ -16,8 +16,8 @@ In the following table, the "Details" pages will not be an outline of the respec
 | 6 | 2022-10-12 | CNNs: Classification Architectures | [Details](classes/Class6.md) | |
 | 7 | 2022-10-19 | CNNs: Regularization. CNNs for Detection | [Details](classes/Class7.md) | tentatively **online** |
 | 8 | 2022-10-26 | CNNs for Segmentation | [Details](classes/Class8.md) | taught by **Annika Gerken** |
-| 9 | 2022-11-09 | Learning paradigms. RNNs and Sequential Data. | [Details](classes/Class9.md) | |
-| 10 | 2022-11-16 | Generative models: (V)AE and GANs. Other types. | [Details](classes/Class10.md) | |
+| 9 | 2022-11-09 | CNNs for Detection (Part II). Generative models: (V)AE and GANs. Other types. | [Details](classes/Class9.md) | |
+| 10 | 2022-11-16 | Learning paradigms. RNNs and Sequential Data. | [Details](classes/Class10.md) | |
 | 11 | 2022-11-23 | Attention, Transformers, Visual Transformers. | [Details](classes/Class11.md) | |
 | 12 | 2022-11-30 | Reinforcement Learning. Neural Architecture Search. | [Details](classes/Class12.md) | |
 | 13 | 2022-11-02 | Graph Neural Networks. Capsule Networks. Causal Inference. | [Details](classes/Class13.md) | |
