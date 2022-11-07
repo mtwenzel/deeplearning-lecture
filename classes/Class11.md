@@ -5,5 +5,4 @@
 * ...
 
 ## Transformers
-* Visualizing transformers (attention graphs)
 * [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
