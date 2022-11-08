@@ -10,7 +10,7 @@
 
 ## Semi-supervised/weakly supervised
 * Multiple-instance learning
-* [Blog on semi-supervised/weakly supervised learning](https://lilianweng.github.io/posts/2021-12-05-semi-supervised/)
+* [Blog on semi-supervised/weakly supervised learning](https://lilianweng.github.io/posts/2021-12-05-semi-supervised/) (Lilian Weng, 2021; three parts)
 
 ## Unsupervised/Self-Supervised
 * Classification/Segmentation: Clustering
@@ -19,6 +19,7 @@
 * Facebook's general framework for self-supervised learning, [data2vec](https://ai.facebook.com/research/publications/data2vec-a-general-framework-for-self-supervised-learning-in-speech-vision-and-language/)
 * UvA Tutorial on [SimCLR](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial17/SimCLR.html)
 * Pretraining algorithms, e.g. BERT-style
+* Great blog post: [Self-Supervised Representation Learning](https://lilianweng.github.io/posts/2019-11-10-self-supervised/) (Lilian Weng, 2019)
 
 
 
