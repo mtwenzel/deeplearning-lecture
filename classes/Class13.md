@@ -7,7 +7,7 @@ Introductory remarks
 
 ## Class 13.1: Graph Neural Networks
 
-* Why [Graph Networks](https://arxiv.org/abs/1806.01261) are suited to real-world problems
+* Why [Graph Networks](https://arxiv.org/abs/1806.01261) are suited to real-world problems. Differentiable Graph Module explained in a [nice blog post](https://towardsdatascience.com/manifold-learning-2-99a25eeb677d) by one of the authors.
 * Corresponding DeepMind [Graph Nets Github](https://github.com/deepmind/graph_nets)
 * [Graph networks combined with symbolic regression](https://proceedings.neurips.cc/paper/2020/hash/c9f2f917078bd2db12f23c3b413d9cba-Abstract.html) to model physical laws
 
