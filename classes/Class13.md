@@ -17,8 +17,8 @@ By the original authors:
 * [Capsule Networks](https://proceedings.neurips.cc/paper/2017/hash/2cad8fa47bbef282badbb8de5374b894-Abstract.html) with [EM routing](https://openreview.net/forum?id=HJWLfGWRb)
 * [Capsule Autoencoder](http://akosiorek.github.io/ml/2019/06/23/stacked_capsule_autoencoders.html)
 
-Other sourcesL
-* A great explanation video
+Other sources
+* A great explanation [video](https://www.youtube.com/watch?v=pPN8d0E3900) by Aurelien Geron
 
 ## Class 13.3: Causality
 
