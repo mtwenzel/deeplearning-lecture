@@ -1,6 +1,7 @@
 # Class 10.1: Text processing and RNNs
 
 * Overview paper on [Metrics](https://link.springer.com/article/10.1007/s11063-022-10835-4) for text translation and text generation models
+* A [practical tutorial](https://keras.io/examples/nlp/addition_rnn/#introduction): training a RNN to do simple calculations
 
 # Class 10.2: Learning paradigms: How to train a neural network?
 
