@@ -29,3 +29,8 @@ Other sources
 ### Books:
 * [CI book overview](https://github.com/bradyneal/causal-inference-books) 
 * [Elements of Causal Inference (Peters et al.)](https://mitpress.mit.edu/books/elements-causal-inference)
+
+## Reinforcement Learning
+* Examples with code at [Keras Documentation](https://keras.io/examples/rl/)
+* Original publication from 1992 [Watkins et al.](https://link.springer.com/content/pdf/10.1007/BF00992698.pdf)
+* Deep Mind web page on [Deep Reinforcement Learning](https://www.deepmind.com/blog/deep-reinforcement-learning)
