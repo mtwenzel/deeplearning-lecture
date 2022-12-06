@@ -33,4 +33,4 @@ Other sources
 ## Reinforcement Learning
 * Examples with code at [Keras Documentation](https://keras.io/examples/rl/)
 * Original publication from 1992 [Watkins et al.](https://link.springer.com/content/pdf/10.1007/BF00992698.pdf)
-* Deep Mind web page on [Deep Reinforcement Learning](https://www.deepmind.com/blog/deep-reinforcement-learning)
+* Deep Mind web page on [Deep Reinforcement Learning](https://www.deepmind.com/blog/deep-reinforcement-learning), and their hallmark [Nature publication](https://storage.googleapis.com/deepmind-data/assets/papers/DeepMindNature14236Paper.pdf)
