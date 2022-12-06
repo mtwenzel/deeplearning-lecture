@@ -2,6 +2,7 @@
 
 * Overview paper on [Metrics](https://link.springer.com/article/10.1007/s11063-022-10835-4) for text translation and text generation models
 * A [practical tutorial](https://keras.io/examples/nlp/addition_rnn/#introduction): training a RNN to do simple calculations
+* A [blog post series](https://dennybritz.com/posts/wildml/recurrent-neural-networks-tutorial-part-4/)
 
 # Class 10.2: Learning paradigms: How to train a neural network?
 
